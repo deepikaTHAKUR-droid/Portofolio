@@ -1,0 +1,21 @@
+body{
+   background: lightblue;
+   padding: 10px 15px;
+   font-family:"Edu NSW ACT Cursive", cursive, Arial, Sans-Serif;
+}
+
+.main{
+   display: flex;
+   align-items: flex-start;
+}
+.image{
+   
+}
+
+.ghibli{
+   width: 150px;
+}
+
+.txt{
+   margin: 0px 25px;
+}
